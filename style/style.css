@@ -10,8 +10,12 @@ header div {
     width: 200px;
 
 }
-table, th, td{
-    border: solid 1px color(black);
-    border-collapse: collapse;
-    padding: 10px;
+.colore2{
+    background-color: rgb(14, 135, 255);
+}
+.colore3{
+    background-color: rgb(192, 230, 246);
+}
+.colore4{
+    background-color:rgb(192, 230, 246) ;
 }
