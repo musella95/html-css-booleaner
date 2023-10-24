@@ -19,3 +19,17 @@ header div {
 .colore4{
     background-color:rgb(192, 230, 246) ;
 }
+.none{
+    text-align: center;
+    font-weight: bold;
+    background-color:#313A6B ;
+    color: white;
+    padding: 20px;
+    height: 20%;
+}
+table{
+    margin-bottom: 60px;
+}
+.evidenziato{
+    background-color: yellow;
+}
