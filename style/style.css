@@ -10,3 +10,8 @@ header div {
     width: 200px;
 
 }
+table, th, td{
+    border: solid 1px color(black);
+    border-collapse: collapse;
+    padding: 10px;
+}
